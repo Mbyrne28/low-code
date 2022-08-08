@@ -1,2 +1,2 @@
 # low-code
-Reasearch into low &amp; no code tools
+Research into low &amp; no code tools
