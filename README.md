@@ -14,8 +14,8 @@ Research into low &amp; no code tools
 |[WordPress](https://wordpress.com/)|Free|Websites, host anywhere|
 
 ## General reference
-📺&nbsp; https://www.youtube.com/watch?v=iS1KZtUFYgs  
-📖&nbsp; Category list: https://userguiding.com/blog/no-code-tools/
+📺&nbsp; Top tools https://www.youtube.com/watch?v=iS1KZtUFYgs  
+📖&nbsp; Category list https://userguiding.com/blog/no-code-tools/
 
 ## Tutorials
-📺&nbsp; https://youtu.be/CSMx0cTa6Ls
+📺&nbsp; Bubble.io https://youtu.be/CSMx0cTa6Ls
