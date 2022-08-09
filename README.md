@@ -10,7 +10,7 @@ Research into low &amp; no code tools
 |[Xano](https://www.xano.com/)|Free plan|Backend no-code, good integration with other no-code tools|
 |[AppGyver](https://www.appgyver.com/)|Free plan under $10M revenue|Web & mobile builder, Front end, Logic, **no backend**|
 |[Adalo](https://www.adalo.com/)|Free plan|App builder, drag & drop, lots of templates, hosting|
-|[Bildr](https://www.bildr.com/)|Free to try, £9pm|Built using Bildr, steeper learning tool|
+|[Bildr](https://www.bildr.com/)|Free to try, £9pm|Built using Bildr, steeper learning curve|
 |[WordPress](https://wordpress.com/)|Free|Websites, host anywhere|
 
 📺&nbsp;Ref: https://www.youtube.com/watch?v=iS1KZtUFYgs
