@@ -19,3 +19,7 @@ Research into low &amp; no code tools
 
 ## Tutorials
 📺&nbsp; [Bubble.io](https://youtu.be/CSMx0cTa6Ls)
+
+
+## Design perspective
+📺&nbsp;[Low-Code Platforms and User Experience](https://www.youtube.com/watch?v=3OqE0KOQIsI&ab_channel=NNgroup)
